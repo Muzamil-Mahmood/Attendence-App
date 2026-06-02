@@ -1,0 +1,65 @@
+name: attendec
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.1
+  google_sign_in: ^6.3.0
+  http: ^1.2.1
+  cached_network_image: ^3.3.1
+  flutter_spinkit: ^5.2.2
+  intl:
+  google_fonts:
+  equatable:
+  bloc:
+  flutter_bloc: ^8.0.1
+  font_awesome_flutter: ^10.7.0
+  get: ^4.7.3
+  fluttertoast: ^8.2.4
+  flutter_launcher_icons: ^0.14.4
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.0.7
+  cloud_firestore: ^5.0.0
+  firebase_storage: ^12.0.0
+  firebase_app_check: ^0.3.0
+  syncfusion_flutter_pdfviewer: ^33.1.44
+  pdf: ^3.12.0
+  path_provider: ^2.1.2 # Check pub.dev for the latest version
+  printing: ^5.0.0
+  slide_to_act:
+  provider:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icon/1024.png"
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true

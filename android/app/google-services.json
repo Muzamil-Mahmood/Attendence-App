@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1020864526838",
+    "project_id": "attendence-app-afca9",
+    "storage_bucket": "attendence-app-afca9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020864526838:android:9ef44912f4375165d3afd7",
+        "android_client_info": {
+          "package_name": "com.example.attendec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020864526838-biqgqbj1mtd7mvrfvpr5mdf01tmj5i08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendec",
+            "certificate_hash": "f5b3292f3ad3b0f3b24590997d237a34c2f7318d"
+          }
+        },
+        {
+          "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdP4eJmZzcz0Y2IvEUZaOBL-JRqWwWnHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020864526838:android:2a359cce8c6691f2d3afd7",
+        "android_client_info": {
+          "package_name": "com.malik.attendpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020864526838-kl2jgkqa0v7e22scc8kpicef5msggjso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malik.attendpro",
+            "certificate_hash": "f5b3292f3ad3b0f3b24590997d237a34c2f7318d"
+          }
+        },
+        {
+          "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdP4eJmZzcz0Y2IvEUZaOBL-JRqWwWnHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020864526838:android:fa0ff8609d4f95fad3afd7",
+        "android_client_info": {
+          "package_name": "com.malik.attendypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdP4eJmZzcz0Y2IvEUZaOBL-JRqWwWnHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020864526838-a8lc3jg4rukdbseap1u5pdgkuq3anacc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
