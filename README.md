@@ -1,4 +1,4 @@
-# attendec
+# Attendence
 
 A new Flutter project.
 
